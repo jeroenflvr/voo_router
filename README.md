@@ -64,7 +64,7 @@ uv run main.py toggle 51820
 
 ### Command Line Options
 
-```
+```text
 usage: voo-router [-h] [--router-ip ROUTER_IP] [--user USER] [--password PASSWORD]
                   {list,show,enable,disable,toggle} ...
 

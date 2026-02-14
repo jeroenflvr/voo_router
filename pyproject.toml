@@ -1,7 +1,7 @@
 [project]
 name = "voo-router"
 version = "0.1.0"
-description = "Add your description here"
+description = "Manage the Port Forwarding settings of your VOO Router"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
