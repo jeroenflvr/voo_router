@@ -4,11 +4,11 @@ A CLI tool to manage port forwarding rules on VOO/Technicolor routers.
 
 ## Features
 
-- 📋 **List** all port forwarding rules
-- ✅ **Enable/Disable** rules by port number
-- 🔄 **Toggle** rules on/off
-- 🔐 Secure authentication using PBKDF2 (matches router's web UI)
-- 📄 JSON output support for scripting
+- [x] **List** all port forwarding rules
+- [x] **Enable/Disable** rules by port number
+- [x] **Toggle** rules on/off
+- [x] Secure authentication using PBKDF2 (matches router's web UI)
+- [x] JSON output support for scripting
 
 ## Installation
 
