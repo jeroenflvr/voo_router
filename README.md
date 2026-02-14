@@ -111,6 +111,21 @@ Port 51820 ✓ enabled
 $ uv run main.py --router-ip 192.168.1.1 --user admin --password secret list
 ```
 
+## Development
+
+### Running Tests
+
+```bash
+# Run all tests
+uv run pytest
+
+# Run tests with verbose output
+uv run pytest -v
+
+# Run with coverage
+uv run pytest --cov=main
+```
+
 ## Compatibility
 
 Tested with:
